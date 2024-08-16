@@ -11,15 +11,15 @@
           <mxGeometry x="353" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YMho0JJOw_7N-HE18doq-6" value="&lt;u&gt;idChofer&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-16" width="90" height="35" as="geometry" />
+          <mxGeometry x="-102" y="-16" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YMho0JJOw_7N-HE18doq-7" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="-16" width="90" height="35" as="geometry" />
+          <mxGeometry x="-2" y="-16" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YMho0JJOw_7N-HE18doq-9" value="fechaNacim." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="-16" width="90" height="35" as="geometry" />
+          <mxGeometry x="95" y="-16" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="YMho0JJOw_7N-HE18doq-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YMho0JJOw_7N-HE18doq-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YMho0JJOw_7N-HE18doq-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-24" y="22" as="sourcePoint" />
             <mxPoint x="44" y="85" as="targetPoint" />
@@ -31,7 +31,7 @@
             <mxPoint x="54" y="95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YMho0JJOw_7N-HE18doq-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YMho0JJOw_7N-HE18doq-9" target="YMho0JJOw_7N-HE18doq-2">
+        <mxCell id="YMho0JJOw_7N-HE18doq-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YMho0JJOw_7N-HE18doq-9" target="YMho0JJOw_7N-HE18doq-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="94" y="29" as="sourcePoint" />
             <mxPoint x="53" y="95" as="targetPoint" />
@@ -40,25 +40,25 @@
         <mxCell id="YMho0JJOw_7N-HE18doq-20" value="patente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="-28" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="YMho0JJOw_7N-HE18doq-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YMho0JJOw_7N-HE18doq-20">
+        <mxCell id="YMho0JJOw_7N-HE18doq-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YMho0JJOw_7N-HE18doq-5" target="YMho0JJOw_7N-HE18doq-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="415" y="81" as="sourcePoint" />
             <mxPoint x="225" y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YMho0JJOw_7N-HE18doq-27" value="marca" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="-28" width="70" height="37" as="geometry" />
+          <mxGeometry x="385" y="-28" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YMho0JJOw_7N-HE18doq-28" value="modelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="-28" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YMho0JJOw_7N-HE18doq-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YMho0JJOw_7N-HE18doq-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="80" as="sourcePoint" />
+            <mxPoint x="420" y="84" as="sourcePoint" />
             <mxPoint x="362" y="19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YMho0JJOw_7N-HE18doq-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.545;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YMho0JJOw_7N-HE18doq-5" target="YMho0JJOw_7N-HE18doq-28">
+        <mxCell id="YMho0JJOw_7N-HE18doq-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YMho0JJOw_7N-HE18doq-5" target="YMho0JJOw_7N-HE18doq-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="101" as="sourcePoint" />
             <mxPoint x="444" y="19" as="targetPoint" />
